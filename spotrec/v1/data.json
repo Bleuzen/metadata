@@ -1,0 +1,14 @@
+{
+    "version": "0.12.0",
+    "releaseDate": "2019-03-10",
+    "downloads": {
+        "main": {
+            "url": "https://github.com/Bleuzen/SpotRec/releases/download/v0.12.0/spotrec.py",
+            "md5": "34c6ab5d9265b06d31966dc9a0309268"
+        },
+        "aur": {
+            "url": "https://aur.archlinux.org/packages/spotrec/"
+        }
+    },
+    "repo": "https://github.com/Bleuzen/SpotRec"
+}

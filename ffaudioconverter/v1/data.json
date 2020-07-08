@@ -1,0 +1,17 @@
+{
+    "version": "0.28",
+    "releaseDate": "2020-01-24",
+    "downloads": {
+        "windows": {
+            "url": "https://github.com/Bleuzen/FFaudioConverter/releases/download/v0.27/FFaudioConverter-0.27-win64.zip",
+            "md5": "7e1a443d05a7c57bbfff35cf75f602c6"
+        },
+        "flathub": {
+            "url": "https://flathub.org/apps/details/com.github.Bleuzen.FFaudioConverter"
+        },
+        "aur": {
+            "url": "https://aur.archlinux.org/packages/ffaudioconverter/"
+        }
+    },
+    "repo": "https://github.com/Bleuzen/FFaudioConverter"
+}
