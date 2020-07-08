@@ -1,8 +1,8 @@
 {
-    "version": "1.4.8",
-    "releaseDate": "2018.08.23",
+    "version": "1.5.0",
+    "releaseDate": "2020.07.08",
     "download": {
-        "url": "https://github.com/Bleuzen/RPGHealthPlus/releases/download/1.4.8/RPGHealthPlus.jar",
-        "md5": "f3195436c5bf12870039f119b71d9d44"
+        "url": "https://github.com/Bleuzen/RPGHealthPlus/releases/download/v1.5.0/RPGHealthPlus.jar",
+        "md5": "60dd7151db9d5ae28e56bc36731000e7"
     }
 }
