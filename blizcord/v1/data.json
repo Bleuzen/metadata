@@ -1,8 +1,8 @@
 {
-    "version": "0.10.2",
-    "releaseDate": "2020-07-08",
-    "downloadUrl": "https://github.com/Bleuzen/Blizcord/releases/download/v0.10.2/Blizcord.exe",
-    "downloadMd5": "130840d3bc3ed521369078364e331fef",
+    "version": "0.10.3",
+    "releaseDate": "2020-07-25",
+    "downloadUrl": "https://github.com/Bleuzen/Blizcord/releases/download/v0.10.3/Blizcord.exe",
+    "downloadMd5": "35f77f6ce8b70edbed8fc091ff5a0c35",
     "aur": "https://aur.archlinux.org/packages/blizcord/",
     "repo": "https://github.com/Bleuzen/Blizcord/"
 }
