@@ -1,6 +1,6 @@
 {
-    "version": "0.29",
-    "releaseDate": "2020-08-25",
+    "version": "0.30.0",
+    "releaseDate": "2021-09-24",
     "downloads": {
         "windows": {
             "url": "https://github.com/Bleuzen/FFaudioConverter/releases/download/v0.29/FFaudioConverter-0.29-win64.zip",
