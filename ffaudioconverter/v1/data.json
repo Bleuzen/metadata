@@ -4,7 +4,7 @@
     "downloads": {
         "windows": {
             "url": "https://github.com/Bleuzen/FFaudioConverter/releases/download/v0.30.0/FFaudioConverter-0.30.0-win64.zip",
-            "md5": "262ee495bb2103c7e73d74543c55ad06"
+            "md5": "ba3696f4985da1a42ee6bc9ab29ec507"
         },
         "flathub": {
             "url": "https://flathub.org/apps/details/com.github.Bleuzen.FFaudioConverter"
