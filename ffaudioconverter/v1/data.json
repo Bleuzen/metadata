@@ -3,7 +3,7 @@
     "releaseDate": "2021-09-24",
     "downloads": {
         "windows": {
-            "url": "https://github.com/Bleuzen/FFaudioConverter/releases/download/v0.29/FFaudioConverter-0.29-win64.zip",
+            "url": "https://github.com/Bleuzen/FFaudioConverter/releases/download/v0.30.0/FFaudioConverter-0.30.0-win64.zip",
             "md5": "262ee495bb2103c7e73d74543c55ad06"
         },
         "flathub": {
